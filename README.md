@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rabahcheboukiii
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python and C++
+- 👀 I’m interested in Penetration testing & Bug Bounty Hunting
 
 <!---
 rabahcheboukiii/rabahcheboukiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
